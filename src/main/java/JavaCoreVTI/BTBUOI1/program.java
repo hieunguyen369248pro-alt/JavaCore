@@ -1,0 +1,10 @@
+package JavaCoreVTI.BTBUOI1;
+
+
+
+public class program {
+    public static void main(String[] args) {
+        Exercise1 exercise1 = new Exercise1();
+        exercise1.question1();
+    }
+}
